@@ -1,1 +1,1 @@
-# Get tips on Read mr from 3.6.5
+# Get tips on Read me from 3.6.5
